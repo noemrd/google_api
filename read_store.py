@@ -20,7 +20,7 @@ class COLS:
     WARNING: These constants must match the zero-based column indexes in the spreadsheet.
     If they don't, then the wrong data will be harvested and inserted into the database.
     """
-    id = 0
+    ID = 0
     VALUE_1 = 2
     VALUE_2 = 3
     VALUE_3 = 4
